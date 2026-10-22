@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Darshan Tripadwar</h1>
+<h1 align="center">Hi , I'm Darshan Tripadwar</h1>
 
 <h3 align="center">Aspiring Data Analyst | Engineering Student | Developer</h3>
 
@@ -21,17 +21,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Mechanical Engineering student, graduating in 2028.
-- 📊 Aspiring Data Analyst passionate about data-driven decision-making.
-- 🐍 Learning Python, Pandas, NumPy, Excel, and Power BI.
-- 🔍 Interested in data cleaning, exploratory data analysis, and dashboards.
-- 🛠️ Building real-world analytics and software development projects.
-- 🌱 Continuously learning and improving my technical skills.
-- 🤝 Open to learning opportunities, collaborations, and internships.
+- Mechanical Engineering student, graduating in 2028.
+- Aspiring Data Analyst passionate about data-driven decision-making.
+- Learning Python, Pandas, NumPy, Excel, and Power BI.
+- Interested in data cleaning, exploratory data analysis, and dashboards.
+- Building real-world analytics and software development projects.
+- Continuously learning and improving my technical skills.
+- Open to learning opportunities, collaborations, and internships.
 
-## 🧰 Skills & Technologies
+## Skills & Technologies
 
 **Data Analytics**
 - Python
@@ -42,23 +42,23 @@
 
 - Git & GitHub
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Student Placement Analytics System
+### Student Placement Analytics System
 An end-to-end analytics project focused on cleaning student placement data, exploring patterns, and building interactive Power BI dashboards.
 
 **Tools:** Python, Pandas, NumPy, Jupyter Notebook, Power BI
 
 🔗 Repository: [View Project](https://github.com/Dev-darshan24/Student-Placement-Analytics-)
 
-### 📈 Business Sales Analytics
+### Business Sales Analytics
 A data analytics project exploring sales performance, product trends, revenue patterns, and business insights.
 
 🔗 Repository: Add your project repository link here.
 
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-darshan24&show_icons=true&hide_border=true" alt="GitHub statistics" />
