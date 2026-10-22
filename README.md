@@ -51,26 +51,6 @@ An end-to-end analytics project focused on cleaning student placement data, expl
 
 🔗 Repository: [View Project](https://github.com/Dev-darshan24/Student-Placement-Analytics-)
 
-### Business Sales Analytics
-A data analytics project exploring sales performance, product trends, revenue patterns, and business insights.
-
-🔗 Repository: Add your project repository link here.
-
-
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-darshan24&show_icons=true&hide_border=true" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-darshan24&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
-
-
-
----
 
 <p align="center">
   <i>"Learning by building, improving through data, and growing one project at a time."</i>
