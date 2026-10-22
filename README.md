@@ -11,14 +11,11 @@
   <a href="https://github.com/Dev-darshan24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/darshan-tripadwar-6b0610328?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="tripadward@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drtverse.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -59,10 +56,7 @@ A data analytics project exploring sales performance, product trends, revenue pa
 
 🔗 Repository: Add your project repository link here.
 
-### 💻 DRT-VERSE
-My personal portfolio showcasing web development and creative digital projects.
 
-🌐 Website: https://drtverse.netlify.app/
 
 ## 📊 GitHub Statistics
 
@@ -74,10 +68,6 @@ My personal portfolio showcasing web development and creative digital projects.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-darshan24&layout=compact&hide_border=true" alt="Most used languages" />
 </p>
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/darshan-tripadwar-6b0610328?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 📧 Email: tripadward@gmail.com
 
 
 ---
